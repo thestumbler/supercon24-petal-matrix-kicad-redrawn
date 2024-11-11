@@ -1,0 +1,170 @@
+		(at 145.60305 118.1097 8)
+		(property "Reference" "LED34"
+--
+		(at 144.03201 103.18482 8)
+		(property "Reference" "LED50"
+--
+		(at 138.77045 84.6833 -115)
+		(property "Reference" "LED55"
+--
+		(at 149.76865 116.5857 31)
+		(property "Reference" "LED33"
+--
+		(at 153.55325 92.1001 -167)
+		(property "Reference" "LED16"
+--
+		(at 139.20225 107.6957 -25)
+		(property "Reference" "LED45"
+--
+		(at 151.92765 81.9401 -172)
+		(property "Reference" "LED6"
+--
+		(at 153.73105 101.1679 123)
+		(property "Reference" "LED29"
+--
+		(at 139.81514 102.18681 -36)
+		(property "Reference" "LED51"
+--
+		(at 143.29165 113.1059 10)
+		(property "Reference" "LED39"
+--
+		(at 144.43465 86.3089 -131)
+		(property "Reference" "LED4"
+--
+		(at 135.36685 111.4803 -32)
+		(property "Reference" "LED41"
+--
+		(at 133.33485 101.1425 -64)
+		(property "Reference" "LED47"
+--
+		(at 158.20145 92.6081 155)
+		(property "Reference" "LED17"
+--
+		(at 159.98905 110.85338 79)
+		(property "Reference" "LED26"
+--
+		(at 147.55885 105.5367 40)
+		(property "Reference" "LED43"
+--
+		(at 149.84485 94.5131 -140)
+		(property "Reference" "LED15"
+--
+		(at 132.69985 108.5847 -65)
+		(property "Reference" "LED42"
+--
+		(at 155.89005 119.3035 47)
+		(property "Reference" "LED28"
+--
+		(at 140.92945 118.3637 -2)
+		(property "Reference" "LED35"
+--
+		(at 150.25125 108.8895 55)
+		(property "Reference" "LED37"
+--
+		(at 161.80825 95.0973 133)
+		(property "Reference" "LED18"
+--
+		(at 162.03685 88.5695 148)
+		(property "Reference" "LED13"
+--
+		(at 156.00404 105.11843 104)
+		(property "Reference" "LED30"
+--
+		(at 137.57665 98.3739 -75)
+		(property "Reference" "LED52"
+--
+		(at 141.39081 94.93175 -76)
+		(property "Reference" "LED2"
+--
+		(at 164.85625 108.1021 82)
+		(property "Reference" "LED21"
+--
+		(at 139.22765 113.0297 -15)
+		(property "Reference" "LED40"
+--
+		(at 155.22965 109.9563 71)
+		(property "Reference" "LED31"
+--
+		(at 150.27665 88.3663 -150)
+		(property "Reference" "LED10"
+--
+		(at 159.87785 101.6759 106)
+		(property "Reference" "LED24"
+--
+		(at 164.70385 91.4651 115)
+		(property "Reference" "LED14"
+--
+		(at 147.12705 111.6835 30)
+		(property "Reference" "LED38"
+--
+		(at 143.67265 98.8819 -57)
+		(property "Reference" "LED1"
+--
+		(at 164.06885 98.9073 116)
+		(property "Reference" "LED19"
+--
+		(at 152.96905 113.7409 49)
+		(property "Reference" "LED32"
+--
+		(at 132.36965 96.7737 -89)
+		(property "Reference" "LED48"
+--
+		(at 135.74785 104.9525 -47)
+		(property "Reference" "LED46"
+--
+		(at 147.63505 83.4641 -149)
+		(property "Reference" "LED5"
+--
+		(at 165.03405 103.3015 91)
+		(property "Reference" "LED20"
+--
+		(at 151.90225 105.0033 78)
+		(property "Reference" "LED36"
+--
+		(at 147.15245 91.1603 -125)
+		(property "Reference" "LED9"
+--
+		(at 153.37169 96.86498 -172)
+		(property "Reference" "LED22"
+--
+		(at 137.05814 93.87873 -87)
+		(property "Reference" "LED53"
+--
+		(at 158.17605 87.0201 165)
+		(property "Reference" "LED12"
+--
+		(at 145.50145 95.0465 -102)
+		(property "Reference" "LED8"
+--
+		(at 154.11205 86.9439 -170)
+		(property "Reference" "LED11"
+--
+		(at 150.32344 102.56468 90)
+		(property "Reference" "LED57"
+--
+		(at 160.34556 106.17107 93)
+		(property "Reference" "LED25"
+--
+		(at 132.54745 92.2017 -98)
+		(property "Reference" "LED49"
+--
+		(at 143.85045 107.9497 13)
+		(property "Reference" "LED44"
+--
+		(at 141.51365 80.7463 -133)
+		(property "Reference" "LED56"
+--
+		(at 158.63325 115.3665 65)
+		(property "Reference" "LED27"
+--
+		(at 157.58856 97.86299 144)
+		(property "Reference" "LED23"
+--
+		(at 156.47425 81.5591 179)
+		(property "Reference" "LED7"
+--
+		(at 137.41465 89.19642 -101)
+		(property "Reference" "LED54"
+--
+		(at 142.17405 90.0935 -109)
+		(property "Reference" "LED3"
