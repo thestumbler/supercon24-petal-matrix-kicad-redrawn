@@ -8111,7 +8111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ".sao-petal:SAO_PIN_HEADER_2x03"
+		(property "Footprint" ".sao-petal:SAO_PIN_HEADER_2x03_PETAL"
 			(at 69.215 153.67 0)
 			(effects
 				(font
