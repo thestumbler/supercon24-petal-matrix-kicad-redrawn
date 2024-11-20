@@ -6,7 +6,7 @@ Making a KiCad version of the Supercon 2024 Petal Matrix SAO.
 
 
 See the related [Hackaday blog article](
-https://hackaday.com/2024/11/19/supercon-2024-sao-petal-kicad-redrawing-project/#comments)
+https://hackaday.com/2024/11/19/supercon-2024-sao-petal-kicad-redrawing-project).
 
 
 ![](images/sao-petal-sch.png)
